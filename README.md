@@ -9,12 +9,6 @@ Berfungsi untuk membuat desain pada layout
 Berfungsi untuk menampilkan komponen aplikasi
 
 ![Alt Text](https://github.com/SalsabillaMA/Praktikum/blob/master/linear2.JPG)
-
-# Relative view
-berfungsi untuk Scroll sakan kiri
-
-![Alt Text](https://github.com/SalsabillaMA/Praktikum/blob/master/relative.JPG)
-
  
 # Komponen
 
