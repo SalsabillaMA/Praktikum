@@ -27,6 +27,9 @@ Berisi kumpulan syntax kode
 # Hasil
 Hasil setelah di run adalah
 
-![Alt Text](https://github.com/SalsabillaMA/Praktikum/blob/master/run.JPG)
+![Alt Text](https://github.com/SalsabillaMA/Praktikum/blob/master/Run.JPG)
 
+Sekian praktikum 8 dari saya terimakasih:)
+
+# Salsabilla Maurettasya A/39/XI RPL 3
 
